@@ -7,5 +7,5 @@ Atividade de apredizagem frontend.
 - Html
 - CSS
 ##
-Link da Rocketseat: https://www.rocketseat.com.br/ <br>
+Rocketseat: https://www.rocketseat.com.br/ <br>
 Ícones utilizados: https://fontawesome.com/
