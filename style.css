@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Alice;
+}
+
+body
+{
+    position:absolute;
+    width: 100%;
+    background-image: url('cupcake.png');
+    background-size: cover;
+    backdrop-filter: blur(20px) brightness(50%);
+}
+
+main
+{
+    background-color: #F0E8C2;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 48px;
+    border-radius: 24px;
+    padding: 24px;
+    
+}
+
+div.imagem
+{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 752px;
+    height: 400px;
+}
+
+div#cupcake
+{
+    background: url('cupcake.png');
+    width: 752px;
+    height: 400px;
+    border-radius: 16px;
+}
+
+div.texto
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    line-height: 25px;
+    font-weight: 100;
+}
+
+div#titulos
+{
+    color: #291B1A;
+    
+}
+
+div#paragrafo
+{
+    color: #573A37;
+}
+
+footer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    color: #F0E8C2;
+}
